@@ -1,0 +1,13 @@
+/* *{
+    margin:0;
+    padding:0;
+} */
+h{
+    text-align: center;
+}
+*{
+    background-color:darkgrey;
+}
+.container{
+    text-align: center;
+}
